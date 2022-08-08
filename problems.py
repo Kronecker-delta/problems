@@ -1,4 +1,3 @@
-
 def backspaceCompare(s,t):
     s_len , t_len = len(s), len(t)
     spoint, tpoint= s_len-1,t_len-1
